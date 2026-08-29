@@ -8,3 +8,5 @@ dev 提交代码 git4
 remote 提交代码git5
 
 同事a 提交了代码 git 6
+
+dev 提交代码 git 6
